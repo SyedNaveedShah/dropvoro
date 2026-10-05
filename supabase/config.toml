@@ -1,1 +1,2 @@
-
+[functions.youtube-metadata]
+verify_jwt = false
